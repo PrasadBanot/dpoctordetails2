@@ -1,0 +1,6 @@
+version: "3.8"
+services: 
+  doctordeatils-3: 
+      build: .
+      ports:
+        - 80:80
