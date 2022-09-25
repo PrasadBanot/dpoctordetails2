@@ -1,0 +1,6 @@
+com\DoctorDetails\DoctorException\DoctorException.class
+com\DoctorDetails\DoctorDetails\Service\DoctorService.class
+com\DoctorDetails\DoctorDetails\Entity\Doctor.class
+com\DoctorDetails\DoctorDetails\Controller\DoctorController.class
+com\DoctorDetails\DoctorDetails\Repository\DoctorRepository.class
+com\DoctorDetails\DoctorDetails\DoctorDetails3Application.class
